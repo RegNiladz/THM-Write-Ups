@@ -18,5 +18,5 @@ So, I decided to try out some possible passwords that I came up with.
 All did not work.
 ### Decompiling and learning how C or C++ code works
 So I decided to use Ghidra, as it was recommended by many people—even on Stack Overflow and ChatGPT. I downloaded it and ran it. The source code was displayed, and although I had no prior knowledge of C or C++, I did understand what if-statements were.
-![Trying to Ghidra](Images/mpv-shot0010.jpg)
+![Trying to Ghidra](Images/mpv-shot0011.jpg)
 So, I think I learned that `strcmp()` is a function that compares two strings — or maybe variables containing strings. Since my first language was Java, I expected it to be easier, like just using a variable from a Scanner class and then comparing it directly. But that’s not how it works. `strcmp()` isn’t like Java’s Scanner; instead, it compares strings that are already provided. I now understand that `strcmp()` works more like this: `strcmp("user input", "expected value")`. So the actual password would be something like `DoYouEven_(...)`.
