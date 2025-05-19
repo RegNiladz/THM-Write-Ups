@@ -4,7 +4,7 @@
 First of all, I didn't have any prior knowledge of this. Everything I've been doing so far has been based on watching tutorials, reading Stack Overflow, and, to some extent, using ChatGPT.
 ### Running 
 After downloading 'Compiled-1688545393558.Compiled', I immediately had to guess how to view it, since I had no idea what to do at first. I had never seen a compiled binary from any C-like language before.
-![](/Images/mpv-shot0009.jpg)
+![](Images/mpv-shot0009.jpg)
 Since I don’t have much knowledge about decompiling, I decided to rename the file to `.c` or `.cpp`, hoping that it might reveal the source code. I was wrong—and in hindsight, that was a pretty naive move to begin with.
 ### Trying to read it
 Then I looked at the hints and realized that I needed to follow the logic. But how am I supposed to read the code when it’s just a mess of random characters and doesn’t resemble the source code at all?
