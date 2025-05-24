@@ -2,5 +2,5 @@
 ---
 ## THM (Try Hack Me)
 ---
-[[TryHackMeWriteUps/THMCompiled/THMCOmpiled.md|Compiled Room]]: https://tryhackme.com/room/compiled
-[[TryHackMeWriteUps/25Days/SantaWorkshop/SantaWorkshop.md|Santa's Workshop (25 Days Challenge)]]: https://tryhackme.com/room/learncyberin25days
+[Compiled Room](TryHackMeWriteUps/THMCompiled/THMCOmpiled.md): https://tryhackme.com/room/compiled
+[Santa's Workshop (25 Days Challenge)](TryHackMeWriteUps/25Days/SantaWorkshop/SantaWorkshop.md): https://tryhackme.com/room/learncyberin25days
