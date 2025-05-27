@@ -6,15 +6,15 @@ You are given three separate capture files: _Infection 1_ and _Infection 2_ are 
 ![Pcap files](Images/Pcaps.png)
 ### Challenge 1
 ---
-Find the IP Address.
-![IP Address](Images/IPAddressQuestionA1.png)
- Find two suspicious that made a HTTP request that end up having a 404. 
-![404 Error](Images/404ErrorQuestionA2.png)
-Find the unique DNS request and make sure you include all forms of (ALL CAPS or Lower Space).
-![Unique DNS](Images/TotalUniqueIDQuestionA3.png)
-Find the URI domain bhaktivrind[.]com that the victim reached out over HTTP.
-![URI](URIQuestion05.png)
-Find the executable and IP Address it had originated.
-![IP and Executable](Images/MalciousIPandExecutableBinaryQuestionA4.png)
-Find the name of the malware.
-![IP and Executable](Images/MalwareName.png)
+Find the IP Address. <br>
+![IP Address](Images/IPAddressQuestionA1.png)<br>
+Find two suspicious that made a HTTP request that end up having a 404. <br>
+![404 Error](Images/404ErrorQuestionA2.png)<br>
+Find the unique DNS request and make sure you include all forms of (ALL CAPS or Lower Space).<br>
+![Unique DNS](Images/TotalUniqueIDQuestionA3.png)<br>
+Find the URI domain bhaktivrind[.]com that the victim reached out over HTTP.<br>
+![URI](URIQuestion05.png)<br>
+Find the executable and IP Address it had originated.<br>
+![IP and Executable](Images/MalciousIPandExecutableBinaryQuestionA4.png)<br>
+Find the name of the malware.<br>
+![IP and Executable](Images/MalwareName.png)<br>
