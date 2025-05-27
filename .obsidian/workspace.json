@@ -25,6 +25,18 @@
             "id": "fb94d64a28da20cd",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "TryHackMeWriteUps/THMMastermind/Images/TotalUniqueIDQuestionA3.png"
+              },
+              "icon": "lucide-image",
+              "title": "TotalUniqueIDQuestionA3"
+            }
+          },
+          {
+            "id": "b1d2343572fcf7df",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
@@ -36,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 437.5
   },
   "right": {
     "id": "9b3300f58a7067fb",
@@ -174,21 +186,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb94d64a28da20cd",
+  "active": "b1d2343572fcf7df",
   "lastOpenFiles": [
-    "TryHackMeWriteUps/25Days/SantaWorkshop/SantaWorkshop.md",
-    "README.md",
+    "TryHackMeWriteUps/THMMastermind/THMMasterMind.md",
+    "TryHackMeWriteUps/THMMastermind/Images/URIQuestion05.png",
+    "TryHackMeWriteUps/THMMastermind/Images/TotalUniqueIDQuestionA3.png",
+    "TryHackMeWriteUps/THMMastermind/Images/404ErrorQuestionA2.png",
+    "TryHackMeWriteUps/THMMastermind/Images/IPAddressQuestionA1.png",
+    "TryHackMeWriteUps/THMMastermind/Images/MalciousIPandExecutableBinaryQuestionA4.png",
+    "TryHackMeWriteUps/THMMastermind/Images/MalwareName.png",
     "TryHackMeWriteUps/THMCompiled/THMCompiled.md",
+    "TryHackMeWriteUps/THMMastermind/Images/Pcaps.png",
+    "README.md",
+    "TryHackMeWriteUps/THMMastermind/Images",
+    "TryHackMeWriteUps/THMMastermind",
+    "TryHackMeWriteUps/25Days/SantaWorkshop/SantaWorkshop.md",
     "TryHackMeWriteUps/25Days/SantaWorkshop/Images/CoockiesDecoded.png",
     "TryHackMeWriteUps/25Days/SantaWorkshop/Images/AllOff.png",
     "TryHackMeWriteUps/25Days/SantaWorkshop/Images/AllOn.png",
-    "TryHackMeWriteUps/25Days/SantaWorkshop/Images/JSexploit.png",
-    "TryHackMeWriteUps/25Days/SantaWorkshop/Images/Screenshot from 2025-05-20 23-09-00.png",
-    "TryHackMeWriteUps/25Days/SantaWorkshop/Images/Screenshot from 2025-05-20 23-13-51.png",
-    "TryHackMeWriteUps/25Days/SantaWorkshop/Images/Screenshot from 2025-05-20 23-14-14.png",
-    "TryHackMeWriteUps/25Days/SantaWorkshop/Images/Santa01.png",
-    "TryHackMeWriteUps/25Days/SantaWorkshop/Images/02.png",
-    "TryHackMeWriteUps/25Days/SantaWorkshop/Images/Screenshot from 2025-05-21 12-49-42.png",
     "TryHackMeWriteUps/25Days/SantaWorkshop/Images",
     "TryHackMeWriteUps/25Days/SantaWorkshop",
     "TryHackMeWriteUps/25Days"
