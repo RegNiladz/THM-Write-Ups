@@ -5,3 +5,6 @@
 - [Compiled Room](TryHackMeWriteUps/THMCompiled/THMCompiled.md): https://tryhackme.com/room/compiled
 - [Santa's Workshop (25 Days Challenge)](TryHackMeWriteUps/25Days/SantaWorkshop/SantaWorkshop.md): https://tryhackme.com/room/learncyberin25days
 - [Masterminds Room](TryHackMeWriteUps/THMMastermind/THMMasterMind.md): https://tryhackme.com/room/mastermindsxlq
+## Eletronics Serial readings
+---
+- [BUFFALO ROUTER (WCR-GN)](SerialReading/BuffWCRGN.md)
